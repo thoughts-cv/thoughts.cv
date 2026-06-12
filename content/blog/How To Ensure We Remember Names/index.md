@@ -1,7 +1,7 @@
 ---
 created: 2026-05-12 08:33:20
-modified: 2026-06-12 08:00:01
-title: How to ensure we remember Names
+title: How To Ensure We Remember Names
+alias: [How To Ensure We Remeber Names]
 date: 2026-06-12
 tags:
   - blogpost
@@ -41,7 +41,7 @@ This methode is based off of *Ronald Johnson's* article [How to Remember Names](
 
 When reviewing our flashcards, we are to imagine the face of the person as vividly as possible, And if we deem it a success, we pass. If we can't visualize the face, we mark the card and suspend it, until we meet the person again, whereupon we can unsuspend and continue using the card.
 
-![Anki example](anki_example.jpg)
+![Anki example](Thoughts.cv/content/blog/How%20To%20Ensure%20We%20Remember%20Names/anki_example.jpg)
 
 ## Experience and Improvements to the Methode
 
@@ -62,7 +62,7 @@ A title doesn't need to be based on something amazing. "The Cold Flower", is fro
 
 My flashcards are structured as follow: Name -> Title -> Location -> physical / Personality trait. From top to bottom is sorted by most important information to least, for remembering the name. Often times, the title is enough, and the location can help quickly jog the memory. The traits at the bottom, are used when I found it difficult to remember who this is and need a lttle extra help.  
 
-![My Flashcards](my_example.png)
+![My Flashcards](Thoughts.cv/content/blog/How%20To%20Ensure%20We%20Remember%20Names/my_example.png)
 
 ### Current Shortcomings of This Methode
 
