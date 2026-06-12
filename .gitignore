@@ -1,5 +1,4 @@
 /resources/_gen/
-/public/
 /drafts/
 .env
 .DS_Store
