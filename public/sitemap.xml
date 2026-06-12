@@ -2,12 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thoughts.cv/categories/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-12T07:48:25+00:00</lastmod>
   </url><url>
-    <loc>https://thoughts.cv/</loc>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-06-12T07:48:25+00:00</lastmod>
   </url><url>
-    <loc>https://thoughts.cv/posts/</loc>
+    <loc>http://localhost:1313/blog/blogpost/</loc>
+    <lastmod>2026-06-12T07:48:25+00:00</lastmod>
   </url><url>
-    <loc>https://thoughts.cv/tags/</loc>
+    <loc>http://localhost:1313/how-i-ensure-i-remember-names/</loc>
+    <lastmod>2026-06-12T07:48:25+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/markdown/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/markdown-syntax-guide/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/syntax/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url>
 </urlset>

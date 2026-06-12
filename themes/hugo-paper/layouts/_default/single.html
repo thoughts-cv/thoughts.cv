@@ -7,17 +7,8 @@
     {{- if ne .Type "page" -}}
     <div class="text-xs antialiased opacity-60">
       {{- if .Date -}}
-<time>
-  Published {{ .Date | time.Format ":date_medium" -}}
-</time>
-{{- end -}}
-
-{{- if ne .Lastmod .Date -}}
-<span class="mx-1">&middot;</span>
-<time>
-  Updated {{ .Lastmod | time.Format ":date_medium" -}}
-</time>
-{{- end -}}<!---->
+      <time>{{- .Date | time.Format ":date_medium" -}}</time>
+      {{- end -}}<!---->
       {{- $single_author := or .Params.author site.Params.author -}}
       <!---->
       {{- if $single_author -}}

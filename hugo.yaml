@@ -1,8 +1,0 @@
-baseURL: 'https://thoughts.cv/'
-locale: 'da-dk'
-title: 'My New Hugo Project'
-theme: 'hugo-paper'
-
-caches:
-  images:
-    dir: ':cacheDir/images'
