@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Hugo ʕ•ᴥ•ʔ Bear Blog</title>
+    <title>Home on Martin&#39;s Thougts</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Hugo ʕ•ᴥ•ʔ Bear Blog</description>
+    <description>Recent content in Home on Martin&#39;s Thougts</description>
     <generator>Hugo</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <language>da-DK</language>
+    <copyright>Copyright © 2026, Martin MacAlpine.</copyright>
     <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
