@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Martin&#39;s Thougts</title>
+    <title>Blog on Martin&#39;s Thoughts</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blog on Martin&#39;s Thougts</description>
+    <description>Recent content in Blog on Martin&#39;s Thoughts</description>
     <generator>Hugo</generator>
     <language>da-DK</language>
     <copyright>Copyright © 2026, Martin MacAlpine.</copyright>
@@ -14,7 +14,7 @@
       <link>http://localhost:1313/how-to-ensure-we-remember-names/</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/how-to-ensure-we-remember-names/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;To learn a name (tldr)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Learn how to pronounce the name&lt;/li&gt;&#xA;&lt;li&gt;Learn how to spell the name&lt;/li&gt;&#xA;&lt;li&gt;Practice the name&lt;/li&gt;&#xA;&lt;li&gt;Create a title based on interaction, something you noticed, etc.&lt;/li&gt;&#xA;&lt;li&gt;Write everything down &lt;em&gt;after&lt;/em&gt; the interaction&lt;/li&gt;&#xA;&lt;li&gt;Create Anki flashcards&lt;/li&gt;&#xA;&lt;li&gt;Review flashcards&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Ever told someone &amp;ldquo;&lt;em&gt;I&amp;rsquo;m really bad with names&lt;/em&gt;&amp;rdquo; &amp;ldquo;&lt;em&gt;Sorry, what was your name again?&lt;/em&gt;&amp;rdquo;, &amp;ldquo;&lt;em&gt;I just can&amp;rsquo;t remember a name&lt;/em&gt;&amp;rdquo;. Well so did I, until I got fed up with never remembering peoples names. Especially since I want to be a teacher. And the biggest hurdle of all, was avoiding having pictures of everyone I waanted to remember the name of. It&amp;rsquo;d be quite a hurdle to ask for a photo of every child, just so that I can remember their names. So here&amp;rsquo;s how I go about it.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;To learn a name (TLDR)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Learn how to pronounce the name&lt;/li&gt;&#xA;&lt;li&gt;Learn how to spell the name&lt;/li&gt;&#xA;&lt;li&gt;Practice the name&lt;/li&gt;&#xA;&lt;li&gt;Create a title based on interaction, something you noticed, etc.&lt;/li&gt;&#xA;&lt;li&gt;Write everything down &lt;em&gt;after&lt;/em&gt; the interaction&lt;/li&gt;&#xA;&lt;li&gt;Create Anki flashcards&lt;/li&gt;&#xA;&lt;li&gt;Review flashcards&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Ever told someone &amp;ldquo;&lt;em&gt;I&amp;rsquo;m really bad with names&lt;/em&gt;&amp;rdquo; &amp;ldquo;&lt;em&gt;Sorry, what was your name again?&lt;/em&gt;&amp;rdquo;, &amp;ldquo;&lt;em&gt;I just can&amp;rsquo;t remember a name&lt;/em&gt;&amp;rdquo;. Well so did I, until I got fed up with never remembering peoples names. Especially since I want to be a teacher. And the biggest hurdle of all, was avoiding having pictures of everyone I wanted to remember the name of. It&amp;rsquo;d be quite a hurdle to ask for a photo of every child, just so that I can remember their names. So here&amp;rsquo;s how I go about it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
